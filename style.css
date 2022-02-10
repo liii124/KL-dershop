@@ -1,0 +1,17 @@
+*{
+    
+
+        margin: 0;
+    
+}
+
+header{
+ background-color:rgb(238, 75, 189);
+ font-size: 17px;
+color: white;
+margin-top: 0;
+}
+
+.Grid {
+    display: grid;
+}
