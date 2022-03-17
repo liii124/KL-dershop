@@ -49,6 +49,7 @@ grid-row-gap: 10px;
     grid-row-start: 3;
     grid-row-end: 5;
     background-color:rgb(255,238,238);
+    
 
 }
 
@@ -100,6 +101,7 @@ grid-row-gap: 10px;
     display: flex;
     align-items: center;
     padding: 20px;
+    margin: auto;
 }
 
 
@@ -305,4 +307,10 @@ nav a:hover{
 @keyframes fade {     
   from {opacity: .4}
   to {opacity: 1}
+}
+
+img {
+
+    width: 25px;
+    margin: 0%;
 }
